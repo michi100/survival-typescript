@@ -1,3 +1,8 @@
+https://github.com/user-attachments/assets/f93628f3-495a-4ad5-8908-be5eabc7975f
+
+Reference:[Next.jsで猫画像ジェネレーターを作ろう](https://typescriptbook.jp/tutorials/nextjs)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

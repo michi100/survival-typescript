@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`初回レンダリング後すぐはOFFと表示されている. 1`] = `
+<div>
+  <button>
+    OFF
+  </button>
+</div>
+`;

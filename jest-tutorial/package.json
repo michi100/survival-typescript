@@ -1,0 +1,11 @@
+{
+  "name": "jest-tutorial",
+  "packageManager": "yarn@4.3.1",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/jest": "^28.0.0",
+    "jest": "^28.0.0",
+    "ts-jest": "^28.0.0",
+    "typescript": "^5.7.2"
+  }
+}
